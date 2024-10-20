@@ -1,5 +1,10 @@
 # Business-Analytics-Projects
 
 Big Data Projects
-* AWS Clusters and Big Data Pipelines
-* Databricks PySpark project
+* AI Strategies in Online Reselling - Capstone
+  
+* Databricks PySpark Project
+  
+* Los Angeles Housing Affordability
+
+
