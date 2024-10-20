@@ -3,7 +3,7 @@
 Big Data Projects
 * AI Strategies in Online Reselling - Capstone
   
-* Databricks PySpark Project
+* National Apartment Rental Price Forecasting (Databricks PySpark Project)
   
 * Los Angeles Housing Affordability
 
